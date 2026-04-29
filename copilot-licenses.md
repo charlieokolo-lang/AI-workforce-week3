@@ -1,1 +1,5 @@
+Copilot Free is the entry-level tier of Microsoft Copilot, accessible without any subscription or payment, typically through a Microsoft account via the web or the Copilot app. It provides access to basic AI-powered chat (gossip/gist space) and assistance using large language models, but with usage limits and no integration with Microsoft 365 apps. Copilot Free is best suited for individuals who want to explore AI capabilities casually, such as students, general consumers, or those new to AI tools who do not require deep workplace integration.
 
+Copilot Pro is a paid personal subscription designed for individual power users who want enhanced AI assistance within Microsoft 365 applications such as Word, Excel, Outlook, and PowerPoint. It provides priority access to the latest AI models, faster performance during peak hours, and the ability to use Copilot features within personal Microsoft 365 subscriptions.
+
+Copilot Pro is best suited for freelancers, creatives, sole traders, and professionals who use Microsoft 365 personally and want to boost their individual productivity.
